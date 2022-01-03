@@ -1,0 +1,36 @@
+.row-bg {
+  background-color: #131313;
+  padding: 10px;
+  border-radius: 5px;
+}
+.col-bg {
+  background-color: #232323;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  height: 210px;
+}
+
+.text_font-size {
+  font-size: 14px;
+}
+
+.filter-section {
+  background-color: black;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.select-input {
+  width: 100%;
+  background-color: #232323;
+  border: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  color: #ffffff;
+  padding: 10px 5px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
